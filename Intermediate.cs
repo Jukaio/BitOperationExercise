@@ -50,7 +50,7 @@ public static class Intermediate
 			answers[9] = clear_bit(0b_1111_1111, 0) == 0b_1111_1101;
 
 
-			Console.WriteLine($"\nExercise 6: INTERMEDIATE...ing!");
+			Console.WriteLine($"\nExercise {index}: INTERMEDIATE...ing!");
 			for (int i = 0; i < answers.Length; i++)
 			{
 				Console.WriteLine($"{i}:\t{answers[i]}");
