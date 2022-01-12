@@ -18,6 +18,7 @@ public static class Intermediate
 			// Add solution within the brackets on the left-hand side
 			// and make your solution evaluate to true
 			// You are only allowed to use &, |, ^, ~, <<, >>
+			// Of course you could always only use AND and OR, but come on, give it some spice.
 			answers[0] = (0b_0000_0001 /* Remove commet and write solution */) == 0b_0000_0000;
 			answers[1] = (0b_0000_1000 /* Remove commet and write solution */) == 0b_0010_1001;
 			answers[2] = (0b_0100_0001 /* Remove commet and write solution */) == 0b_0000_1000;

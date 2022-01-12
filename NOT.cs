@@ -17,8 +17,8 @@ public static class NOT
 			// 0010 0011
 			bool[] @byte = new bool[]
 			{
-			false, false, true, false,
-			false, false, true, true
+				false, false, true, false,
+				false, false, true, true
 			};
 
 			// ANDing 

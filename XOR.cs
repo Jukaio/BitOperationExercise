@@ -14,14 +14,14 @@ public static class XOR
 			// 0010 0011
 			bool[] lhs_byte = new bool[]
 			{
-			false, false, true, false,
-			false, false, true, true
+				false, false, true, false,
+				false, false, true, true
 			};
 			// 1010 1010
 			bool[] rhs_byte = new bool[]
 			{
-			true, false, true, false,
-			true, false, true, false
+				true, false, true, false,
+				true, false, true, false
 			};
 
 			// ANDing 
